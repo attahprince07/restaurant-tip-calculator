@@ -12,6 +12,6 @@ python tip_calculator.py
 
 Follow the prompts:
 
-1 Enter the total bill amount.
+1. Enter the total bill amount.
 2. Input the number of people sharing the bill.
 3. Select a tip percentage (choose from 10, 12, or 15).
