@@ -1,4 +1,5 @@
 **Tip Calculator**
+
 Welcome to the Tip Calculator! This Python program helps users quickly and easily calculate the tip amount and the total cost per person when splitting a bill at a restaurant or any other gathering.
 
 **Features**
